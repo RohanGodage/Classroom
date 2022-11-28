@@ -1,0 +1,7 @@
+/*Garbage collector
+is called implicitly
+but can be called explicitly
+it is a automatic debug function
+runs on scheduled timing as provided by user
+
+ */
